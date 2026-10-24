@@ -1,133 +1,120 @@
+<div align="center">
+
 # YAQINI & DUNIYA TECHNOLOGY
-### Engineering Intelligence. Building the Future.
 
-**Applied AI • Machine Learning • Autonomous Systems • Software Engineering • Digital Innovation**
+### Engineering intelligent systems for the real world.
 
-**Yaqini & Duniya Technology (YD Tech)** is an emerging Nigeria-based technology company focused on designing, developing, and advancing intelligent digital products that solve real-world challenges.
+**Applied AI · Autonomous Systems · Machine Learning · Full-Stack Engineering**
 
-We combine artificial intelligence, machine learning, modern software engineering, and product research to build practical technologies for people, businesses, and communities.
+**Nigeria-rooted. Evidence-driven. Building for global relevance.**
 
-Our ambition extends beyond developing applications. We are building the engineering foundations for scalable, responsible, and commercially valuable technology products originating in Africa and serving global markets.
+[**Explore our projects**](https://github.com/orgs/Yaqini-Duniya-Technology/repositories) · [**View founder portfolio**](https://indaobanyi.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/inda-obanyi-8886553a6/)
 
-[Explore Our Products](https://indaobanyi.vercel.app/projects) | [Founder Portfolio](https://indaobanyi.vercel.app) | [Connect on LinkedIn](https://www.linkedin.com/in/inda-obanyi-8886553a6/)
-
----
-
-## Our Mission
-
-To transform real-world problems into intelligent, accessible, reliable, and scalable technology solutions through research, responsible AI, and high-quality software engineering.
-
-## Our Vision
-
-To become a globally recognized African technology company advancing innovation in autonomous intelligence, AI-powered products, and next-generation digital infrastructure.
-
-## Our Technology Focus
-
-- **Artificial Intelligence and Machine Learning:** Predictive modeling, intelligent decision support, natural language processing, and explainable AI.
-- **Autonomous and Agentic Systems:** Intelligent planning, decision orchestration, contextual memory, and human-supervised automation.
-- **Full-Stack Software Engineering:** Modern web applications, APIs, authentication, databases, and cloud deployment.
-- **Data Science and Analytics:** Data pipelines, feature engineering, model evaluation, forecasting, and decision intelligence.
-- **Applied Research and Product Development:** Translating technical experiments into validated MVPs and scalable products.
+</div>
 
 ---
 
-## Our Product Portfolio
+## Who we are
 
-### NEXUS: Autonomous Agricultural Intelligence
-**AgriTech | Autonomous Decision Systems | Simulation-Validated MVP**
+**Yaqini & Duniya Technology (YD Tech)** is an emerging Nigerian technology venture building intelligent products that address practical challenges in agriculture, financial security, climate resilience, education and digital services.
 
-NEXUS is being developed as an intelligent operating layer for agriculture. It connects farm-state understanding, risk assessment, decision-making, operational execution, and historical learning.
+We combine **AI/ML research, product thinking, software engineering and iterative testing** to move ideas from prototypes toward useful, reliable systems. We publish development stages and technical limitations openly: a simulation result is not a field trial, and a deployed prototype is not automatically a production-validated product.
 
-Its technical MVP demonstrates autonomous decision and execution workflows in a simulation environment. Real-farm validation and broader integrations are future milestones.
+> **Our mission:** Turn consequential problems into accessible, responsible and scalable intelligent software.
+>
+> **Our vision:** Grow an internationally respected African technology company recognized for engineering quality and measurable real-world impact.
 
-[Explore NEXUS](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm)
+## Featured engineering work
 
-### FraudGuard AI
-**FinTech | Machine Learning | Fraud Detection**
+| Product | Problem we are solving | Current maturity | Explore |
+| --- | --- | --- | --- |
+| **NEXUS: Autonomous Agricultural Intelligence** | Connect farm observations, decisions, execution and evidence into one adaptive workflow | **Simulation-validated technical MVP**; field validation pending | [Repository](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm) |
+| **FraudGuard AI** | Help analysts identify suspicious mobile-money transactions and review risk signals | **Functional ML application / ongoing validation** | [Repository](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction) |
+| **FloodGuard AI** | Improve access to flood-awareness information and preparedness guidance in Nigeria | **Public awareness prototype**; predictive integrations planned | [Repository](https://github.com/Yaqini-Duniya-Technology/floodguard-ninja) · [MVP](https://3e7e648e.mydala.app) |
+| **Resume Screening AI** | Organize resume evidence for transparent, human-reviewed candidate screening | **Experimental deployed prototype**; fairness and model validation ongoing | [Repository](https://github.com/Yaqini-Duniya-Technology/Resume-Screening-AI) · [MVP](https://resume-screening-ai-h.streamlit.app/) |
+| **Teachers Handbook** | Make comprehensive Nigerian curriculum-aligned lesson materials easier to prepare and use | **Under development** | [Project overview](https://indaobanyi.vercel.app/projects) |
+| **IndaVerse** | Explore multimodal AI creation and agent-assisted product workflows | **Under development** | [Project overview](https://indaobanyi.vercel.app/projects) |
 
-An AI-assisted fraud detection platform developed to support transaction risk assessment, predictive modeling, monitoring, and auditable financial-security workflows.
+**Project maturity matters.** Our portfolio includes working prototypes, simulation-tested systems and products still in development. We distinguish observed results from future goals.
 
-[Source Code](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction)
+## Engineering evidence worth reviewing
 
-### FloodGuard AI
-**ClimateTech | AI-Assisted Risk Awareness | Community Resilience**
+### NEXUS — autonomous decision-to-outcome loop
 
-A flood awareness and emergency preparedness platform focused on making useful safety information accessible to Nigerian communities.
+The repository documents a reproducible **720-step simulation** with **719 recorded decisions**, **719 experiences** and **82 verified successful harvests**, alongside a reported **324-test regression baseline**. These results demonstrate a technical simulation workflow, **not real-world crop yield improvements**.
 
-[Source Code](https://github.com/Yaqini-Duniya-Technology/floodguard-ninja) | [Explore MVP](https://3e7e648e.mydala.app)
+[Inspect the NEXUS engineering case study →](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm)
 
-### Resume Screening AI
-**HRTech | Natural Language Processing | Decision Support**
+### FraudGuard AI — risk-oriented ML engineering
 
-An experimental AI-assisted recruitment tool combining resume parsing, skills matching, and structured candidate assessment to support human recruiters.
+The project documents data preparation, class-imbalance analysis, model evaluation, an inference interface, user roles and audit logging. Its reported temporal test results include **93.15% precision, 72.26% recall and 81.39% F1**. These are offline measurements, not evidence of production fraud-prevention performance.
 
-[Source Code](https://github.com/Yaqini-Duniya-Technology/Resume-Screening-AI) | [Live MVP](https://resume-screening-ai-h.streamlit.app/)
+[Inspect the FraudGuard engineering case study →](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction)
 
-### Teachers Handbook
-**EdTech | Curriculum Intelligence | Digital Learning**
+### Airline Satisfaction AI — explainable prediction
 
-A developing education platform designed to support Nigerian teachers with curriculum-aligned lesson notes, structured teaching resources, and assessments.
+A related project by our founder explores **Random Forest classification, SHAP explanations, interactive What-If analysis and automated tests**. Its repository reports **95.57% held-out accuracy** and **0.9927 ROC-AUC** for the deployment candidate; external validation remains a future step.
 
-**Status:** Under development.
+[Inspect the Airline Satisfaction case study →](https://github.com/Inda-Obanyi/airline-satisfaction-ai)
 
-### IndaVerse
-**Generative AI | Multimodal Intelligence | Agentic Systems**
+## What we build
 
-An evolving AI-powered creative and software-development platform with a long-term vision for coordinated multimodal generation, intelligent planning, and creative workflows.
+- **Applied AI and predictive systems:** classification, risk scoring, forecasting, evaluation and explainability.
+- **Decision intelligence and autonomous workflows:** state representation, planning, execution evidence, memory and human oversight.
+- **Full-stack digital products:** accessible interfaces, APIs, authentication, databases and cloud deployment.
+- **Data and research tooling:** preprocessing, feature engineering, experimentation, automated tests and reporting.
+- **Sector-focused prototypes:** AgriTech, FinTech, ClimateTech, EdTech and multimodal AI.
 
-**Status:** Under development.
+### Technology stack
+
+| Layer | Tools and methods |
+| --- | --- |
+| AI / data | Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP |
+| Backend | FastAPI, REST APIs, PostgreSQL, SQLite |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Streamlit |
+| Delivery | Git, GitHub, Docker, testing, CI/CD, Vercel, cloud hosting |
+| Engineering principles | Reproducibility, documentation, secure design, measurable evaluation, transparent limitations |
+
+## How we work
+
+```text
+Discover the problem
+        ↓
+Research users, data and constraints
+        ↓
+Define measurable success criteria
+        ↓
+Design architecture and build an MVP
+        ↓
+Test, evaluate and document limitations
+        ↓
+Validate with users and domain experts
+        ↓
+Deploy, monitor, improve and scale
+```
+
+**Our commitment:** Show the problem, engineering decisions, what was tested, what actually works and what remains to be built. We prefer evidence over inflated claims.
+
+## Collaboration, hiring and partnerships
+
+We are open to discussions with **AI and software engineering teams, researchers, agricultural and education partners, accelerators, startup programs, and organizations exploring responsible AI solutions**.
+
+Whether you are reviewing our code for a technical role, considering a research collaboration or exploring a product partnership, start with the repositories above and the founder's portfolio.
+
+## Leadership and contact
+
+**Inda Obanyi** — Founder & Technical Lead · AI/ML Engineer · Software Developer  
+[Portfolio](https://indaobanyi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/inda-obanyi-8886553a6/) · [Personal GitHub](https://github.com/Inda-Obanyi)
+
+**Saidu Rukaiya** — Head of Product · Project Manager · Digital Marketer  
+[LinkedIn](https://www.linkedin.com/in/saidu-rukaiya-02a736305/)
 
 ---
 
-## How We Engineer Products
+<div align="center">
 
-Our product development follows an evidence-driven lifecycle:
+### Built in Africa. Engineered for real-world impact.
 
-**Problem Discovery → Research → Architecture → Prototype → Implementation → Testing → Evaluation → MVP → Deployment → Monitoring → Continuous Improvement**
+**Yaqini & Duniya Technology — Building intelligent systems for the real world.**
 
-We aim to prioritize reproducible engineering, security, documentation, usability, and transparent reporting of what has—and has not—been validated.
-
-## Our Technology Ecosystem
-
-**Languages:** Python, TypeScript, JavaScript, SQL
-
-**AI and Data:** Scikit-learn, XGBoost, Pandas, NumPy, NLP, Predictive Analytics
-
-**Backend:** FastAPI, REST APIs, PostgreSQL
-
-**Frontend:** React, Next.js, Tailwind CSS, Streamlit
-
-**Engineering:** Git, GitHub, Docker, Automated Testing, CI/CD, Cloud Deployment
-
-Our stack continues to evolve with product requirements.
-
----
-
-## Collaboration and Opportunities
-
-We welcome conversations with:
-
-- Engineering and AI research collaborators
-- Startup accelerators, incubators, and innovation programs
-- Universities and research institutions
-- Businesses seeking applied AI solutions
-- Investors and grant-making organizations
-- Technical professionals interested in building impactful products
-
-We are interested in opportunities that combine technical excellence with measurable real-world impact.
-
----
-
-## Leadership
-
-**Founder — Inda Obanyi**
-
-AI/ML Engineer | Python Developer | Full-Stack AI Product Builder
-
-[Professional Portfolio](https://indaobanyi.vercel.app) | [LinkedIn](https://www.linkedin.com/in/inda-obanyi-8886553a6/) | [GitHub](https://github.com/Inda-Obanyi)
-
----
-
-### Built in Africa. Designed for Real-World Impact. Engineered for Global Relevance.
-
-*Yaqini & Duniya Technology — Building intelligent systems for a better future.*
+</div>
