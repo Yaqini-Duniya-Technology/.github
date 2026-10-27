@@ -57,6 +57,17 @@ A related project by our founder explores **Random Forest classification, SHAP e
 
 [Inspect the Airline Satisfaction case study →](https://github.com/Inda-Obanyi/airline-satisfaction-ai)
 
+## Verified engineering and continuous integration
+
+Our public repositories expose implementation details and automatically executed checks. **Passing CI means the specified automated checks passed; it is not field validation, a security certification or proof of predictive performance in production.**
+
+| Project | Architecture | Automated checks | Evidence boundary |
+| --- | --- | --- | --- |
+| **[NEXUS](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm)** | [Decision loop and simulation evidence](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm/blob/master/docs/ARCHITECTURE.md) | [Python tests](https://github.com/Yaqini-Duniya-Technology/nexus-intelligent-farm/actions/workflows/ci.yml) | Simulation results; real-farm trials pending |
+| **[FraudGuard AI](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction)** | [API, model and persistence architecture](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction/blob/main/docs/ARCHITECTURE.md) | [Feature, packaging and API contract checks](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction/actions/workflows/fraudguard-ci.yml) · [Syntax](https://github.com/Yaqini-Duniya-Technology/mobile-money-fraud-prediction/actions/workflows/ci.yml) | Offline evaluation and experimental risk scoring; no production validation |
+
+**Review detailed case studies:** [Founder portfolio](https://indaobanyi.vercel.app/projects) · [Personal engineering profile](https://github.com/Inda-Obanyi)
+
 ## What we build
 
 - **Applied AI and predictive systems:** classification, risk scoring, forecasting, evaluation and explainability.
